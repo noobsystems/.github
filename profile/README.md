@@ -14,5 +14,5 @@
 
 <p align="center">
     <a href="https://github.com/noobsystems/missions" title="This FiveM script serves as a framework for creating arbitrary jobs and missions, allowing you to configure custom NPCs, tasks, equipment and rewards for your roleplay server through a modular system."><img src="missions.png" /></a>
-    <i>missions framework</i>
+    <i>Missions Framework</i>
 </p>
